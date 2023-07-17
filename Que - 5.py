@@ -1,0 +1,2 @@
+# Primary Key: It is a column or a combination of columns in a table that uniquely identifies each row in the table. It provides a way to uniquely identify records in a table and ensures the uniqueness of the data.
+# Foreign Key: It is a column or a combination of columns in a table that refers to the primary key of another table. It helps to establish a link or relationship between two tables based on the values of the foreign key column(s).
